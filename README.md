@@ -86,7 +86,29 @@ While remote monitoring of solar inverters offers numerous benefits, there are a
 
 <img width="312" height="312" alt="image" src="https://github.com/user-attachments/assets/c35e90bd-cda1-43f3-a3a4-7a1112f1dda9" />
 
-## **Block Diagram**
+### **Block Diagram**
+
+<img width="576" height="336" alt="image" src="https://github.com/user-attachments/assets/b6d1b0ab-0009-4a2f-89e0-a5bf860ea1f8" />
+
+### **Circuit Diagram**
+
+<img width="624" height="325" alt="image" src="https://github.com/user-attachments/assets/2a4a2aad-06a2-4005-b002-ab7bc990be62" />
+
+## **Results**
+
+<img width="678" height="342" alt="image" src="https://github.com/user-attachments/assets/d9895665-37f3-4952-aa48-7590b9cdbf73" />
+
+<img width="322" height="365" alt="image" src="https://github.com/user-attachments/assets/cde1c907-5031-4dcb-9292-7c6c760a128a" />
+
+## **Conclusions and Recommendations**
+
+In conclusion, the solar monitoring system project has been a significant success in achieving its objectives of monitoring and optimizing the performance of a solar panel. Through this project, we have successfully designed and implemented a robust system that continuously measures and analyzes crucial parameters such as solar panel voltage, current, temperature, and incident light intensity.
+
+### **Recommendations**
+
+
+
+
 
 
 
