@@ -104,7 +104,7 @@ While remote monitoring of solar inverters offers numerous benefits, there are a
 
 In conclusion, the solar monitoring system project has been a significant success in achieving its objectives of monitoring and optimizing the performance of a solar panel. Through this project, we have successfully designed and implemented a robust system that continuously measures and analyzes crucial parameters such as solar panel voltage, current, temperature, and incident light intensity.
 
-### **Recommendations**
+
 
 
 
