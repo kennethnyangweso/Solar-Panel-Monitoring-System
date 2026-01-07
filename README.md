@@ -1,4 +1,5 @@
-# **📡 Solar Panel Monitoring System with IoT**
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6d93bca8-8d58-4f74-9c5f-5acae85a706b" />
+
 
 
 ![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-blue?style=for-the-badge)
